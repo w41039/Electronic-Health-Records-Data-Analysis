@@ -1,6 +1,6 @@
 # STAT3612
 
-code for the course project of STAT3612
+In this project, I processed the data and designed statistical machine learning models for two risk prediction tasks. Performance of different models are compared and effect of different factors on the prediction is analysed.
 
 # Background 
 Electronic Health Records (EHRs) holds the potential to improve healthcare in many ways, such as delivering better patient treatments, improving hospital operations, and answering fundamental scientific questions. As the development of modern healthcare systems, a promising application of EHRs is designing machine learning models
@@ -16,5 +16,3 @@ vitals features.
 # Task 2
 Length-of-stay (LOS) Prediction: Predict the patients’ length of staying in ICU (regression) given clinically grouped time-varying labs and
 vitals features
-
-In this project, I processed the data and designed statistical machine learning models for two risk prediction tasks. Performance of different models are compared and effect of different factors on the prediction is analysed.

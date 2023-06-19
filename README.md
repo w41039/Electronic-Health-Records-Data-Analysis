@@ -1,6 +1,6 @@
 # STAT3612
 
-In this project, I processed the data and designed statistical machine learning models for two risk prediction tasks. Performance of different models are compared and effect of different factors on the prediction is analysed.
+In this project, I processed the data and designed statistical machine learning models for two risk prediction tasks. Numerous machine learning methods, including liner regression, logistic regression, KNN, SVM, Adaboost and gradient boost are used to analyse the data. Performance of different models are compared and effect of different factors on the prediction is analysed. 
 
 # Background 
 Electronic Health Records (EHRs) holds the potential to improve healthcare in many ways, such as delivering better patient treatments, improving hospital operations, and answering fundamental scientific questions. As the development of modern healthcare systems, a promising application of EHRs is designing machine learning models
